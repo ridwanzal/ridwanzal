@@ -5,7 +5,7 @@
 <h3> 👨 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Experiences in many roles in IT Industries, as FrontEnd Dev, Backend Dev & Mobile Dev and Technical Lead from SCAFOL
+- 💼 &nbsp; Experiences in many roles in IT Industries, as FrontEnd Dev, Backend Dev & Mobile Dev and Technical Lead Engineer
 - 💼 &nbsp; Freelance Graphic Designer since 2014, currently mastering UI/UX 
 - 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
 - 📫 How to reach me **zalbianridwan@gmailcom**
