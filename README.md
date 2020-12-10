@@ -11,10 +11,7 @@
 - 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
 - 📫 &nbsp; How to reach me **zalbinaridwan@gmailcom**
 - 📫 &nbsp; or **www.ridwanzal.com**
-
 <br/>
-<br/>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <table>
 	<tbody>
