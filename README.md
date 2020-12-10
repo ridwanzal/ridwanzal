@@ -4,9 +4,10 @@
 
 <h3> 👨 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Experiences in many roles in IT Industries as : Front-end, Back-end role, Mobile Dev, and Technical Lead Engineer
-- 💼 &nbsp; Freelance Graphic Designer since 2014, currently mastering UI/UX 
+- 🤔 &nbsp; Love to learn and explore.
+- 👓 &nbsp; Interest in web, mobile app development, designs, and information security.
+- 💼 &nbsp; Experiences in many roles in IT Industries as : Front-end, Back-end role, Mobile Dev, and Technical Lead Engineer.
+- 💼 &nbsp; Freelance Graphic Designer since 2014.
 - 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
 - 📫 &nbsp; How to reach me **zalbinaridwan@gmailcom**
 - 📫 &nbsp; or **www.ridwanzal.com**
