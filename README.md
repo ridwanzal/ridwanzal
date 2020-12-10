@@ -12,7 +12,7 @@
 - 📫 &nbsp; How to reach me **zalbinaridwan@gmailcom**
 - 📫 &nbsp; or **www.ridwanzal.com**
 <br/>
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Technology Stack</h3>
 <table>
 	<tbody>
 		<tr>
