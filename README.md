@@ -63,7 +63,7 @@
 			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></td>
 		</tr>
 		<tr>
-			<td><p align="left">🌐 &nbsp;Content Management System</p></td>
+			<td><p align="left">🌐 &nbsp;CMS/CMF</p></td>
 			<td><img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" width="30" height="30"/> </td>
 			<td rowspan="5">
 				<p align="center">
