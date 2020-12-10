@@ -63,17 +63,6 @@
 			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/><img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/></td>
 		</tr>
 		<tr>
-			<td><p align="left">🌐 &nbsp;Data Visualization</p></td>
-			<td><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> </td>
-			<td rowspan="5">
-				<p align="center">
-					<a href="https://github.com/ridwanzal">
-					<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ridwanzal&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
-					</a>
-				</p>
-			</td>
-		</tr>
-		<tr>
 			<td><p align="left">🌐 &nbsp;Backend as a Service</p></td>
 			<td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/></td>
 		</tr>
