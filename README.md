@@ -51,7 +51,7 @@
 		</tr>
 		<tr>
 			<td><p align="left">🌐 &nbsp;Backend Development Stack</p></td>
-			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80"/>&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="80" />&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-plain-wordmark.svg" alt="express" width="30" height="30"/>
+			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50"/>&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="50" />&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-plain-wordmark.svg" alt="express" width="30" height="30"/>
 			</td>
 		</tr>
 		<tr>
