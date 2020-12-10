@@ -47,7 +47,6 @@
 &nbsp;<img src="https://devicon.dev/devicon.git/icons/grunt/grunt-original-wordmark.svg" alt="grunt" width="30" height="30"/>
 &nbsp;<img src="https://devicon.dev/devicon.git/icons/gulp/gulp-plain.svg" alt="grunt" width="30" height="30"/>
 &nbsp;<img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="grunt" width="30" height="30"/>&nbsp;
-<img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="grunt" width="30" height="30"/>&nbsp;
 <img src="https://devicon.dev/devicon.git/icons/babel/babel-plain.svg" alt="grunt" width="30" height="30"/>
 </td>
 		</tr>
