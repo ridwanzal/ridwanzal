@@ -55,7 +55,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td><p align="left"> 🌐 &nbsp;Mobile App Development</p></td>
+			<td><p align="left"> 🌐 &nbsp;Mobile App</p></td>
 			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></td>
 		</tr>
 		<tr>
