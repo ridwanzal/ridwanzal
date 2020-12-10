@@ -45,12 +45,14 @@
 &nbsp;<img src="https://devicon.dev/devicon.git/icons/grunt/grunt-original-wordmark.svg" alt="grunt" width="30" height="30"/>
 &nbsp;<img src="https://devicon.dev/devicon.git/icons/gulp/gulp-plain.svg" alt="grunt" width="30" height="30"/>
 &nbsp;<img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="grunt" width="30" height="30"/>&nbsp;
-<img src="https://devicon.dev/devicon.git/icons/babel/babel-plain.svg" alt="grunt" width="30" height="30"/>
+<img src="https://devicon.dev/devicon.git/icons/babel/babel-plain.svg" alt="grunt" width="30" height="30"/>&nbsp;
+<img src="https://devicon.dev/devicon.git/icons/handlebars/handlebars-original-wordmark.svg" alt="grunt" width="30" height="30"/>
 </td>
 		</tr>
 		<tr>
-			<td><p align="left">🌐 &nbsp;Backend Development</p></td>
-			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/></td>
+			<td><p align="left">🌐 &nbsp;Backend Development Stack</p></td>
+			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>&nbsp;<img src="https://devicons.github.io/devicon.git/icons/redis/redis-plain-wordmark.svg" alt="express" width="30" height="30"/>
+			</td>
 		</tr>
 		<tr>
 			<td><p align="left"> 🌐 &nbsp;Mobile App Development</p></td>
@@ -61,8 +63,8 @@
 			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></td>
 		</tr>
 		<tr>
-			<td><p align="left">🌐 &nbsp;Data Visualization</p></td>
-			<td><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> </td>
+			<td><p align="left">🌐 &nbsp;Content Management System</p></td>
+			<td><img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" width="30" height="30"/> </td>
 			<td rowspan="5">
 				<p align="center">
 					<a href="https://github.com/ridwanzal">
@@ -83,7 +85,7 @@
 		<tr>
 			<td><p align="left">🖥 &nbsp;Software</p></td>
 			<td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>&nbsp;
-			<img src="https://devicon.dev/devicon.git/icons/inkscape/inkscape-original.svg" alt="inkscape" width="30" height="30"/>&nbsp;
+			<img src="" alt="inkscape" width="30" height="30"/>&nbsp;
 			<img src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg" alt="figma" width="30" height="30"/>&nbsp;
 			<img src="https://devicon.dev/devicon.git/icons/sourcetree/sourcetree-original-wordmark.svg" alt="figma" width="30" height="30"/>&nbsp;
 			<img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="figma" width="30" height="30"/>&nbsp;
@@ -91,8 +93,10 @@
 		</tr>
 		<tr>
 			<td><p align="left">⚙️ &nbsp; Others</p></td>
-			<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
-			<img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="git" width="30" height="30"/> 
+			<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+			<img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="git" width="30" height="30"/> 
+			<img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="git" width="30" height="30"/>
+			<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="git" width="30" height="30"/> 
 			<img src="https://devicon.dev/devicon.git/icons/apache/apache-original-wordmark.svg" alt="git" width="30" height="30"/>
 			</td>
 		</tr>
