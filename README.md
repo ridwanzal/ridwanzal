@@ -39,11 +39,16 @@
 		</tr>
 		<tr>
 			<td><p align="left">🌐 &nbsp;Frontend Development</p></td>
-			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>&nbsp;
+			<td>
+<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="grunt" width="30" height="30"/>&nbsp;
+<img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="vuejs" width="30" height="30"/>&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/>&nbsp;<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/>
 &nbsp;<img src="https://devicon.dev/devicon.git/icons/grunt/grunt-original-wordmark.svg" alt="grunt" width="30" height="30"/>
 &nbsp;<img src="https://devicon.dev/devicon.git/icons/gulp/gulp-plain.svg" alt="grunt" width="30" height="30"/>
-&nbsp;<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="grunt" width="30" height="30"/>
+&nbsp;<img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="grunt" width="30" height="30"/>&nbsp;
+<img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="grunt" width="30" height="30"/>&nbsp;
+<img src="https://devicon.dev/devicon.git/icons/babel/babel-plain.svg" alt="grunt" width="30" height="30"/>
 </td>
 		</tr>
 		<tr>
@@ -80,9 +85,12 @@
 		</tr>
 		<tr>
 			<td><p align="left">🖥 &nbsp;Software</p></td>
-			<td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
-			<img src="https://devicon.dev/devicon.git/icons/inkscape/inkscape-original.svg" alt="inkscape" width="30" height="30"/>
-			<img src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg" alt="figma" width="30" height="30"/></td>
+			<td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>&nbsp;
+			<img src="https://devicon.dev/devicon.git/icons/inkscape/inkscape-original.svg" alt="inkscape" width="30" height="30"/>&nbsp;
+			<img src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg" alt="figma" width="30" height="30"/>&nbsp;
+			<img src="https://devicon.dev/devicon.git/icons/sourcetree/sourcetree-original-wordmark.svg" alt="figma" width="30" height="30"/>&nbsp;
+			<img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="figma" width="30" height="30"/>&nbsp;
+			</td>
 		</tr>
 		<tr>
 			<td><p align="left">⚙️ &nbsp; Others</p></td>
