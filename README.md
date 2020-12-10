@@ -5,7 +5,7 @@
 <h3> 👨 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Love to learn and explore.
-- 👓 &nbsp; Interest in web, mobile app development, designs, and information security.
+- 👓 &nbsp; Interested in web, mobile app development, designs, and information security.
 - 💼 &nbsp; Experiences in many roles in IT Industries as : Front-end, Back-end role, Mobile Dev, and Technical Lead Engineer.
 - 💼 &nbsp; Freelance Graphic Designer since 2014.
 - 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
