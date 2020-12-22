@@ -9,7 +9,7 @@
 - 💼 &nbsp; Experiences in many roles in IT Industries as : Front-end, Back-end role, Mobile Dev, and Technical Lead Engineer.
 - 💼 &nbsp; Freelance Graphic Designer since 2014.
 - 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
-- 📫 &nbsp; How to reach me **zalbinaridwan@gmailcom**
+- 📫 &nbsp; How to reach me **zalbinaridwan@gmail.com**
 - 📫 &nbsp; or **www.ridwanzal.com**
 <br/>
 <h3> 🛠 &nbsp;Technology Stack</h3>
