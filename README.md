@@ -45,13 +45,13 @@
 &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original-wordmark.svg" alt="grunt" width="30" height="30"/>
 &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="grunt" width="30" height="30"/>
 &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="grunt" width="30" height="30"/>&nbsp;
-<img src="https://devicon.dev/devicon.git/icons/babel/babel-plain.svg" alt="grunt" width="30" height="30"/>&nbsp;
-<img src="https://devicon.dev/devicon.git/icons/handlebars/handlebars-original-wordmark.svg" alt="grunt" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-plain.svg" alt="grunt" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" alt="grunt" width="30" height="30"/>
 </td>
 		</tr>
 		<tr>
 			<td><p align="left">🌐 &nbsp;Backend Stack</p></td>
-			<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50"/>&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="50" />&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-plain-wordmark.svg" alt="express" width="30" height="30"/>
+			<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg" alt="express" width="30" height="30"/>
 			</td>
 		</tr>
 		<tr>
@@ -85,19 +85,19 @@
 		<tr>
 			<td><p align="left">🖥 &nbsp;Software</p></td>
 			<td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>&nbsp;
-			<img src="https://devicon.dev/devicon.git/icons/inkscape/inkscape-plain-wordmark.svg" alt="inkscape" width="30" height="30"/>&nbsp;
-			<img src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg" alt="figma" width="30" height="30"/>&nbsp;
-			<img src="https://devicon.dev/devicon.git/icons/sourcetree/sourcetree-original-wordmark.svg" alt="figma" width="30" height="30"/>&nbsp;
-			<img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="figma" width="30" height="30"/>&nbsp;
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-plain-wordmark.svg" alt="inkscape" width="30" height="30"/>&nbsp;
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="figma" width="30" height="30"/>&nbsp;
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original-wordmark.svg" alt="figma" width="30" height="30"/>&nbsp;
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="figma" width="30" height="30"/>&nbsp;
 			</td>
 		</tr>
 		<tr>
 			<td><p align="left">⚙️ &nbsp; Others</p></td>
 			<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-			<img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="git" width="30" height="30"/> 
-			<img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="git" width="30" height="30"/>
-			<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="git" width="30" height="30"/> 
-			<img src="https://devicon.dev/devicon.git/icons/apache/apache-original-wordmark.svg" alt="git" width="30" height="30"/>
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="git" width="30" height="30"/> 
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="git" width="30" height="30"/>
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="git" width="30" height="30"/> 
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="git" width="30" height="30"/>
 			</td>
 		</tr>
 	</tbody>
