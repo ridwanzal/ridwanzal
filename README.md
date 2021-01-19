@@ -23,10 +23,10 @@
 		<tr>
 			<td><p align="left">💻 &nbsp;Language</p></td>
 			<td>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/>&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/></td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></td>
 			<td rowspan="5">
 			<p align="center">
 				<a href="https://github.com/ridwanzal">
@@ -38,33 +38,33 @@
 		<tr>
 			<td><p align="left">🌐 &nbsp;Frontend Stack</p></td>
 			<td>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="grunt" width="30" height="30"/>&nbsp;
-<img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="vuejs" width="30" height="30"/>&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/>&nbsp;<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/>
-&nbsp;<img src="https://devicon.dev/devicon.git/icons/grunt/grunt-original-wordmark.svg" alt="grunt" width="30" height="30"/>
-&nbsp;<img src="https://devicon.dev/devicon.git/icons/gulp/gulp-plain.svg" alt="grunt" width="30" height="30"/>
-&nbsp;<img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="grunt" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="grunt" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="vuejs" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/>&nbsp;<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/>
+&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original-wordmark.svg" alt="grunt" width="30" height="30"/>
+&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="grunt" width="30" height="30"/>
+&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="grunt" width="30" height="30"/>&nbsp;
 <img src="https://devicon.dev/devicon.git/icons/babel/babel-plain.svg" alt="grunt" width="30" height="30"/>&nbsp;
 <img src="https://devicon.dev/devicon.git/icons/handlebars/handlebars-original-wordmark.svg" alt="grunt" width="30" height="30"/>
 </td>
 		</tr>
 		<tr>
 			<td><p align="left">🌐 &nbsp;Backend Stack</p></td>
-			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50"/>&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="50" />&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-plain-wordmark.svg" alt="express" width="30" height="30"/>
+			<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50"/>&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="50" />&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-plain-wordmark.svg" alt="express" width="30" height="30"/>
 			</td>
 		</tr>
 		<tr>
 			<td><p align="left"> 🌐 &nbsp;Mobile App</p></td>
-			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></td>
+			<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></td>
 		</tr>
 		<tr>
 			<td><p align="left">🛢 &nbsp;Database</p></td>
-			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></td>
+			<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></td>
 		</tr>
 		<tr>
 			<td><p align="left">🌐 &nbsp;CMS/CMF</p></td>
-			<td><img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" width="30" height="30"/> </td>
+			<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" width="30" height="30"/> </td>
 			<td rowspan="5">
 				<p align="center">
 					<a href="https://github.com/ridwanzal">
