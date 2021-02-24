@@ -85,6 +85,7 @@
 		<tr>
 			<td><p align="left">🖥 &nbsp;Software</p></td>
 			<td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>&nbsp;
+				<img src="https://www.vectorlogo.zone/logos/sketch/sketch-icon.svg" alt="figma" width="30" height="30"/>&nbsp;
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-plain-wordmark.svg" alt="inkscape" width="30" height="30"/>&nbsp;
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="figma" width="30" height="30"/>&nbsp;
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original-wordmark.svg" alt="figma" width="30" height="30"/>&nbsp;
