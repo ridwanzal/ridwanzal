@@ -10,7 +10,7 @@
 - 💼 &nbsp; Freelance Graphic Designer since 2014.
 - 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
 - 📫 &nbsp; How to reach me **zalbinaridwan@gmail.com**
-- 📫 &nbsp; or **www.ridwanzal.com**
+- 📫 &nbsp; or **www.github.com/ridwanzal**
 <br/>
 <h3> 🛠 &nbsp;Technology Stack</h3>
 <table>
