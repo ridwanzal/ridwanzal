@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwanzal" alt="ridwanzal" /></a> </p>
 
-- 🔭 I’m currently working on **Fairtech Pte. Ltd.**
+- 🔭 I’m currently working on **<a href="https://www.fairtech.com.sg/">Fairtech Pte. Ltd.</a>**
 
 - 🌱 I’m currently learning **web & mobile development, infosect**
 
