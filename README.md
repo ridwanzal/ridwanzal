@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm M. Ridwan Zalbina</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwanzal&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanzal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwanzal" alt="ridwanzal" /></a> </p>
-
 - 🔭 I’m currently working on **<a target="_blank" href="https://www.fairtech.com.sg/">Fairtech Pte. Ltd.</a>**
 
 - 🌱 I’m currently learning **web & mobile development, infosect**
