@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **<a target="_blank" href="https://www.fairtech.com.sg/">Fairtech Pte. Ltd.</a>**
 
-- 🌱 I’m currently learning **web & mobile development, infosect**
+- 🌱 I’m currently learning **web & mobile development, infosec**
 
 - 👨‍💻 All of my projects are available at [github.com/ridwanzal](github.com/ridwanzal)
 
