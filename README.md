@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **web, mobile development & information security**
 
-- 👨‍💻 All of my projects are available at [github.com/ridwanzal](github.com/ridwanzal)
-
 - 📫 How to reach me **zalbinaridwan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
