@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M. Ridwan Zalbina</h1>
 <br/>
-- 🔭 I’m currently working on <a target="_blank" href="https://www.fairtech.com.sg/"><b>Fairtech Pte. Ltd.</b></a>
+- 🔭 I’m currently working at <a target="_blank" href="https://www.fairtech.com.sg/"><b>Fairtech Pte. Ltd.</b></a>
 
 - 🌱 I’m currently learning **web, mobile development & information security**
 
