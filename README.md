@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm M. Ridwan Zalbina</h1>
 
-- 🔭 I’m currently working at <a target="_blank" href="https://www.fairtech.com.sg/"><b>Fairtech Pte. Ltd.</b></a>
+- 🔭  &nbsp;&nbsp; I’m currently working at <a target="_blank" href="https://www.fairtech.com.sg/"><b>Fairtech Pte. Ltd.</b></a>
 
-- 🌱 I’m currently learning **web, mobile development & information security**
+- 🌱  &nbsp;&nbsp; I’m currently learning **web, mobile development & information security**
 
-- 📫 How to reach me **zalbinaridwan@gmail.com**
+- 📫. &nbsp;&nbsp; How to reach me **zalbinaridwan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
