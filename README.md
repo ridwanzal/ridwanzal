@@ -28,9 +28,9 @@ I'm currently working in Software Agency name **Fairtech Technology, Ltd**, loca
 - Communicate effectively in english.
 - Project Management & Human Capital
 - How to start a company
-- Empower people
 - Investment
-- Currently learning about : Go language, Still learning and exploring about react, vue, and svelte, and follows any update about their related library and framework.
+- Exploring utility first css framework : tailwind.css
+- Keep up with react, vue, svelte, and follows any update about their related library and framework.
 - Interested on learning about flutter, so much project rely on flutter nowadays.
 
 #### You can reach me
