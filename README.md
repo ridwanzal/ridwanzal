@@ -1,10 +1,10 @@
 Hello there, my name is M. Ridwan Zalbina, people call me "Edo" or "Ridwan", Software Engineer who work around fullstack development, but work as professional Front-End Developer. Really passionate to learn everything about technology: software engineering, design and information security to make a better world for people around the world.
 
-##### Work
+#### Work
 
 I'm currently working in Software Agency name **Fairtech Technology, Ltd**, located in Singapore, Jakarta and Makassar. Remote working is their default culture. I'm working with a great people with different culture. 
 
-##### Technology Stack  & Experiences 
+#### Technology Stack  & Experiences 
 
 - Javascript Technology  - Fundamentals & Current Trends
 - Git, Mercurial and Subversion
@@ -22,7 +22,7 @@ I'm currently working in Software Agency name **Fairtech Technology, Ltd**, loca
 - Focusing on clean code, conduct best practice as much as possible, learning design pattern to make sure everything is great.
 - Being a product designer as side hustle, help company deal with product design, familiar with : Figma, Sketch, Zeplin and Invision to create web and mobile user interfaces.
 
-##### Interest on learning about 
+#### Interested in
 
 - Architecture & Construction (Real men need to get dirty). 
 - Communicate effectively in english.
@@ -33,7 +33,7 @@ I'm currently working in Software Agency name **Fairtech Technology, Ltd**, loca
 - Currently learning about : Go language, Still learning and exploring about react, vue, and svelte, and follows any update about their related library and framework.
 - Interested on learning about flutter, so much project rely on flutter nowadays.
 
-##### You can reach me
+#### You can reach me
 
 - Web : ~~Under Construction~~ 
 - Email :  [zalbinaridwan@gmail.com](mailto:zalbinaridwan@gmail.com)
