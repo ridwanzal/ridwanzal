@@ -2,7 +2,7 @@ Hello there, my name is M. Ridwan Zalbina, people call me "Edo" or "Ridwan", Sof
 
 #### Work
 
-I'm currently working in Digital Agency Company called **Fairtech Technology, Ltd**, located in Singapore, Jakarta and Makassar. Remote working is their default culture. I'm working with a great people with different culture. 
+I'm currently working in Digital Agency Company called **Fairtech Technology, Ltd**, located in Singapore, Jakarta and Makassar.
 
 #### Technology Stack  & Experiences 
 
