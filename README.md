@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/YSJW4Pqc/rwz-banner.png" width="100%" alt="rwz banner"/>
+<img src="https://i.postimg.cc/90p3Rv2J/rwz-banner.png" width="100%" alt="rwz banner"/>
 
 Hello there, my name is M. Ridwan Zalbina, people call me "Edo" or "Ridwan", Software Engineer who work around fullstack development, but work as professional Front-End Developer. Really passionate to learn everything about technology: software engineering, design and information security to make a better world for people around the world.
 
