@@ -16,7 +16,7 @@ I'm currently working in Digital Agency Company called **Fairtech Technology, Lt
 - Python usually used for data processing and API.
 - Java & Kotlin for Native Android Development.
 - Generate static content web using task runner / module bundler / build tools / package management such as :
-  - Grunt, Gulp, Npm, Browserify, Babel, Requirejs, Parcel
+  - Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel
 - Automate task using : Shell Script, BOT API
 - Familiar with UNIX/Linux Environment as Software Engineer to deploy and maintain application
 - Focusing on clean code, conduct best practice as much as possible, learning design pattern to make sure everything is great.
