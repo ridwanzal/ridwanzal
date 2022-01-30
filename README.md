@@ -12,7 +12,7 @@ I'm currently working in Digital Agency Company called **Fairtech Technology, Lt
 - Git, Mercurial and Subversion
 - Mastering CSS & Frontend Architecture for web development 
 - Familiar with almost CSS Preprocessors SCSS/SASS and LESS
-- Familiar with templating engine : twig, handlebars, mustache, pug, ejs, underscore.js, dOT, and Jade
+- Familiar with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
 - Cutting-edge Javascript Framework & Library such as: NodeJS, Vue, React, Svelte, Next, Nuxt and NestJS
 - PHP Native & MVC Framework such as: CodeIgniter and Laravel.
 - Python usually used for data processing and API.
