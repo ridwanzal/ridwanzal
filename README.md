@@ -29,7 +29,7 @@ I'm currently working in Digital Agency Company called **Fairtech Technology, Lt
 - Architecture & Construction (Real men need to get dirty). 
 - Communicate effectively in english.
 - Project Management & Human Capital
-- How to start a company
+- Start a company
 - Investment
 - Exploring utility first css framework : tailwind.css
 - Keep up with react, vue, svelte, and follows any update about their related library and framework.
