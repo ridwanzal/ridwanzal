@@ -17,6 +17,7 @@ I'm currently working in Digital Agency Company called **Fairtech Technology, Lt
 - PHP Native & MVC Framework such as: CodeIgniter and Laravel.
 - Python usually used for data processing and API.
 - Java & Kotlin for Native Android Development.
+- Currently develop react-native app for mobile
 - Generate static content web using task runner / module bundler / build tools / package management such as :
   - Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel
 - Automate task using : Shell Script, BOT API
