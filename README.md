@@ -16,7 +16,7 @@ I'm currently working in Digital Agency Company called **Fairtech Technology, Lt
 - Cutting-edge Javascript Framework & Library such as: NodeJS, Vue, React, Svelte, Next, Nuxt and NestJS
 - PHP Native & MVC Framework such as: CodeIgniter and Laravel.
 - Python usually used for data processing and API.
-- Java & Kotlin for Native Android Development.
+- Java & Kotlin for native Android development.
 - Currently develop react-native app for mobile
 - Generate static content web using task runner / module bundler / build tools / package management such as :
   - Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel
