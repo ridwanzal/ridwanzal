@@ -35,6 +35,7 @@ I'm currently working in Digital Agency Company called **Fairtech Technology, Lt
 - Exploring utility first css framework : tailwind.css
 - Keep up with react, vue, svelte, and follows any update about their related library and framework.
 - Interested on learning about flutter, so much project rely on flutter nowadays.
+- Start open source project
 
 #### You can reach me
 
