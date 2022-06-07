@@ -2,7 +2,7 @@ Hello there, my name is M. Ridwan Zalbina, people call me "Edo" or "Ridwan", Sof
 
 #### Work
 
-I'm currently working in Digital Agency Company called **Fairtech Technology, Ltd**, located in Singapore, Jakarta and Makassar.
+I'm currently working on Digital Agency Company called **Fairtech Technology, Ltd**, located in Singapore, Jakarta and Makassar.
 
 #### Technology Stack  & Experiences 
 
@@ -13,25 +13,24 @@ I'm currently working in Digital Agency Company called **Fairtech Technology, Lt
 - Familiar with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
 - Cutting-edge Javascript Framework & Library such as: NodeJS, Vue, React, Svelte, Next, Nuxt and NestJS
 - PHP Native & MVC Framework such as: CodeIgniter and Laravel.
-- Python usually used for data processing and API.
+- Python for data processing and API.
 - Java & Kotlin for native Android development.
 - Currently develop react-native app for mobile
 - Generate static content web using task runner / module bundler / build tool / package management tool such as :
   - Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel
 - Automate task using : Shell Script, BOT API
 - Familiar with UNIX/Linux Environment as Software Engineer to deploy and maintain application
-- Focusing on clean code, conduct best practice as much as possible, learning design pattern to make sure everything is great.
-- Being a product designer as side hustle, help company deal with product design, familiar with : Figma, Sketch, Zeplin and Invision to create web and mobile user interfaces.
+- Focusing on clean code, conducting best practice as much as possible, learning design pattern to make sure everything is great.
+- Being a product designer as side hustle, helping company deal with product design, familiar with : Figma, Sketch, Zeplin and Invision for web and mobile user interfaces.
 
 #### Interested in
 
 - Architecture & Construction (Real men need to get dirty). 
-- Communicate effectively in english.
+- Communicate effectively in english
 - Project Management & Human Capital
 - Start a company
 - Investment
-- Keep up with javascript ecosystem, and framework like: react, vue, svelte, and follows any update about their related library and framework.
-- Interested on learning about flutter, so much project rely on flutter nowadays.
+- Keep up with javascript ecosystem and framework such as : react, vue, svelte, and follow any update from those things.
 - Start open source project
 
 #### You can reach me
