@@ -8,27 +8,27 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 
 - Javascript Technology  - Fundamentals & Current Trends
 - Git, Mercurial and Subversion
-- Mastering CSS & Frontend Architecture for web development 
-- Familiar with almost CSS Preprocessors SCSS/SASS and LESS
+- Mastering CSS & Frontend Architecture for web development
+- Familiar with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang
 - Familiar with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
-- Cutting-edge Javascript Framework & Library such as: NodeJS, Vue, React, Svelte, Next, Nuxt and NestJS
+- Cutting-edge Javascript Framework & Library such as: NodeJS, Vue, React, Svelte | Next, Nuxt and NestJS
 - PHP Native & MVC Framework such as: CodeIgniter and Laravel.
 - Python for data processing and API.
 - Java & Kotlin for native Android development.
 - Currently develop react-native app for mobile
 - Generate static content web using task runner / module bundler / build tool / package management tool such as :
-  - Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel
-- Automate task using : Shell Script, BOT API
-- Familiar with UNIX/Linux Environment as Software Engineer to deploy and maintain application
-- Focusing on clean code, conducting best practice as much as possible, learning design pattern to make sure everything is great.
+  - Webpack, Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel
+- Familiar with UNIX/Linux Environment to deploy and maintain web & mobile application
+- Familiar with docker engine
+- Focusing on clean code, conducting best practice as much as possible
 - Being a product designer as side hustle, helping company deal with product design, familiar with : Figma, Sketch, Zeplin and Invision for web and mobile user interfaces.
 
 #### Interested in
 
 - Architecture & Construction (Real men need to get dirty). 
 - Communicate effectively in english
-- Project Management & Human Capital
-- Start a company
+- Project Management
+- Setup a new business
 - Investment
 - Keep up with javascript ecosystem and framework such as : react, vue, svelte, and follow any update from those things.
 - Start open source project
