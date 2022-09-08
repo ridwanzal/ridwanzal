@@ -1,39 +1,38 @@
-<img src="https://i.postimg.cc/90p3Rv2J/rwz-banner.png" width="100%" alt="rwz banner"/>
-
-Hello there, my name is M. Ridwan Zalbina, people call me "Edo" or "Ridwan", Software Engineer who work around fullstack development, but work as professional Front-End Developer. Really passionate to learn everything about technology: software engineering, design and information security to make a better world for people around the world.
+Hello there, my name is M. Ridwan Zalbina, people call me "Edo" or "Ridwan", Software Engineer who work around fullstack development, but work as professional Front-End Developer. Really passionate to learn everything about technology: software engineering, visual design and information security.
 
 #### Work
 
-I'm currently working in Digital Agency Company called **Fairtech Technology, Ltd**, located in Singapore, Jakarta and Makassar.
+I'm currently working on Digital Agency Company called **Fairtech Technology, Ltd**, located in Singapore, Jakarta and Makassar.
 
 #### Technology Stack  & Experiences 
 
 - Javascript Technology  - Fundamentals & Current Trends
 - Git, Mercurial and Subversion
-- Mastering CSS & Frontend Architecture for web development 
-- Familiar with almost CSS Preprocessors SCSS/SASS and LESS
+- Mastering CSS & Frontend Architecture for web development
+- Familiar with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang
 - Familiar with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
-- Cutting-edge Javascript Framework & Library such as: NodeJS, Vue, React, Svelte, Next, Nuxt and NestJS
+- Cutting-edge Javascript Framework & Library such as: NodeJS, Vue, React, Svelte | Next, Nuxt and NestJS
 - PHP Native & MVC Framework such as: CodeIgniter and Laravel.
-- Python usually used for data processing and API.
-- Java & Kotlin for Native Android Development.
-- Generate static content web using task runner / module bundler / build tools / package manager such as :
-  - Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel
-- Automate task using : Shell Script, BOT API
-- Familiar with UNIX/Linux Environment as Software Engineer to deploy and maintain application
-- Focusing on clean code, conduct best practice as much as possible, learning design pattern to make sure everything is great.
-- Being a product designer as side hustle, help company deal with product design, familiar with : Figma, Sketch, Zeplin and Invision to create web and mobile user interfaces.
+- Python for data processing and API.
+- Java & Kotlin for native Android development.
+- Currently develop react-native app for mobile
+- Generate static content web using task runner / module bundler / build tool / package management tool such as :
+  - Webpack, Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel
+- Familiar with UNIX/Linux Environment to deploy and maintain web & mobile application
+- Familiar with docker engine
+- Focusing on clean code, conducting best practice as much as possible
+- Being a product designer as side hustle, helping company deal with product design, familiar with : Figma, Sketch, Zeplin and Invision for web and mobile user interfaces.
 
 #### Interested in
 
 - Architecture & Construction (Real men need to get dirty). 
-- Communicate effectively in english.
-- Project Management & Human Capital
-- Start a company
+- Communicate effectively in english
+- Project Management
+- Setup a new business
 - Investment
-- Exploring utility first css framework : tailwind.css
-- Keep up with react, vue, svelte, and follows any update about their related library and framework.
-- Interested on learning about flutter, so much project rely on flutter nowadays.
+- Keep up with javascript ecosystem and framework such as : react, vue, svelte, and follow any update from those things.
+- Start open source project
+- Web3
 
 #### You can reach me
 
@@ -45,5 +44,7 @@ I'm currently working in Digital Agency Company called **Fairtech Technology, Lt
 - Behance: [@ridwanzal](https://behance.net/ridwanzal)
 
 ------
+![](https://komarev.com/ghpvc/?username=ridwanzal&color=blueviolet)
+------
 
-&copy; 2022 - Github README profile - M. Ridwan Zalbina
+&copy; 2022 - Github readme profile - M. Ridwan Zalbina
