@@ -47,4 +47,4 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 ![](https://komarev.com/ghpvc/?username=ridwanzal&color=blueviolet)
 ------
 
-&copy; 2022 - Github README profile - M. Ridwan Zalbina
+&copy; 2022 - Github readme profile - M. Ridwan Zalbina
