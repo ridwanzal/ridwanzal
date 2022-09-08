@@ -7,11 +7,11 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 #### Technology Stack  & Experiences 
 
 - Javascript Technology  - Fundamentals & Current Trends
-- Git, Mercurial and Subversion
+- Git, Subversion and ~~Mercurial~~
 - Mastering CSS & Frontend Architecture for web development
 - Familiar with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang
 - Familiar with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
-- Cutting-edge Javascript Framework & Library such as: NodeJS, Vue, React, Svelte | Next, Nuxt and NestJS
+- Familiar with Cutting-edge Javascript Framework & Library such as: Node, Vue, React, Svelte | Next, Nuxt and NestJS
 - PHP Native & MVC Framework such as: CodeIgniter and Laravel.
 - Python for data processing and API.
 - Java & Kotlin for native Android development.
