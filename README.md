@@ -43,12 +43,12 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Telegram: [@ridwanzal](https://t.me/ridwanzal)
 - Behance: [@ridwanzal](https://behance.net/ridwanzal)
 
-------
-![](https://komarev.com/ghpvc/?username=ridwanzal&color=blueviolet)
-------
-
 #### Design Portfolio
 - Behance : https://www.behance.net/ridwanzal
 - Deviantart : https://www.deviantart.com/ridwanzal
+
+------
+![](https://komarev.com/ghpvc/?username=ridwanzal&color=blueviolet)
+------
 
 &copy; 2022 - Github profile readme - M. Ridwan Zalbina
