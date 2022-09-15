@@ -21,7 +21,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Familiar with UNIX/Linux Environment to deploy and maintain web & mobile application
 - Familiar with docker engine
 - Focusing on clean code, conducting best practice as much as possible
-- Being a product designer as side hustle, helping company deal with product design, familiar with : Figma, Sketch, Zeplin and Invision for web and mobile user interfaces.
+- Being a product designer as side hustle, helping company deal with product design, familiar with : Figma, Sketch, Zeplin and Invision for web and mobile app interfaces
 
 #### Interested in
 
