@@ -12,6 +12,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Familiar with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang
 - Familiar with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
 - Familiar with Cutting-edge Javascript Framework & Library such as: Node, Vue, React, Svelte | Next, Nuxt and NestJS
+- Familiar with frontend tooling like Vite for rapid web development
 - PHP Native & MVC Framework such as: CodeIgniter and Laravel.
 - Python for data processing and API.
 - Java & Kotlin for native Android development.
