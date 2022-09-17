@@ -1,4 +1,4 @@
-Hello there, my name is M. Ridwan Zalbina, people call me "Edo" or "Ridwan", Software Engineer who work around fullstack development, but work as professional Front-End Developer. Really passionate to learn everything about technology: software engineering, visual design and information security.
+Hello there, my name is M. Ridwan Zalbina, people call me "Edo" or "Ridwan", Software Engineer who works around fullstack development, but works as professional Front-End Developer. Really passionate to learn everything about technology: software engineering, visual design and information security.
 
 #### Work
 
