@@ -37,7 +37,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 
 #### You can reach me
 
-- Web : ~~Under Construction~~ 
+- Web : https://ridwanzal.github.io/
 - Email :  [zalbinaridwan@gmail.com](mailto:zalbinaridwan@gmail.com)
 - Linkedin: [M. Ridwan Zalbina](https://www.linkedin.com/in/mridwanzalbina/)
 - Instagram: [M. Ridwan Zalbina](https://www.instagram.com/ridwanzal/)
