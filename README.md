@@ -19,8 +19,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Currently develop react-native app for mobile
 - Generate static content web using task runner / module bundler / build tool / package management tool such as :
   - Webpack, Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel
-- Familiar with UNIX/Linux Environment to deploy and maintain web & mobile application
-- Familiar with docker engine
+- Familiar with UNIX/Linux Environment to deploy and maintain web & mobile application, also familiar with container such as: docker
 - Focusing on clean code, conducting best practice as much as possible
 - Being a product designer as side hustle, helping company deal with product design, familiar with : Figma, Sketch, Zeplin, Invision for web and mobile app designs
 - Experience more than 10 years on logo, advertisment, promotional content. 
