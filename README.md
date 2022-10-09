@@ -9,7 +9,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Javascript Technology  - Fundamentals & Current Trends
 - Git, Subversion and ~~Mercurial~~
 - Mastering CSS & Frontend Architecture for web development
-- Familiar with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang
+- Familiar with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang, PostCSS
 - Familiar with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
 - Familiar with Cutting-edge Javascript Framework & Library such as: Node, Vue, React, Svelte | Next, Nuxt and NestJS
 - Familiar with frontend tooling like Vite for rapid web development
