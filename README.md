@@ -31,7 +31,6 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Communicate effectively in english
 - Project Management
 - Setup a new business & Invest
-- Keep up with javascript ecosystem and framework such as : react, vue, svelte, and follow any update from those things.
 - Start open source project
 - Web3
 
