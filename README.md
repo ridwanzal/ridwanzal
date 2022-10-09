@@ -30,8 +30,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Architecture & Construction (Real men need to get dirty). 
 - Communicate effectively in english
 - Project Management
-- Setup a new business
-- Investment
+- Setup a new business & Invest
 - Keep up with javascript ecosystem and framework such as : react, vue, svelte, and follow any update from those things.
 - Start open source project
 - Web3
@@ -43,7 +42,6 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Linkedin: [M. Ridwan Zalbina](https://www.linkedin.com/in/mridwanzalbina/)
 - Instagram: [M. Ridwan Zalbina](https://www.instagram.com/ridwanzal/)
 - Telegram: [@ridwanzal](https://t.me/ridwanzal)
-- Behance: [@ridwanzal](https://behance.net/ridwanzal)
 
 #### Design Portfolio
 - Behance : https://www.behance.net/ridwanzal
