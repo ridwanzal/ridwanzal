@@ -4,7 +4,7 @@ Hello, my name is M. Ridwan Zalbina, people call me "Edo" or "Ridwan", Software 
 
 I'm currently working on Digital Agency Company called **Fairtech Technology, Ltd**, located in Singapore, Jakarta and Makassar.
 
-#### Technology Stack  & Experiences 
+#### Technology Stack  & Experiences
 
 - Experienced with Javascript technology
 - Familiar with other programming language: Python, Go, Java/Kotlin and Go
@@ -19,21 +19,22 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
   - Webpack, Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel and Rollup
 - Expert on with UNIX/Linux Environment to deploy and maintain web & mobile application, also familiar with container such as docker
 - Focusing on clean code, conducting best practice as much as possible
-- Being a product designer as side hustle, helping company deal with product design, familiar with : 
+- Being a product designer as side hustle, helping company deal with product design, familiar with :
   - Figma, Sketch, Zeplin, Invision for web and mobile app designs
-- Experienced more than 10 years on logo, advertisment, promotional content. 
+- Experienced more than 10 years on logo, advertisment, promotional content.
 
 #### You can reach me
 
-- Web : https://ridwanzal.github.io/
+- Web : <https://ridwanzal.github.io/>
 - Email :  [zalbinaridwan@gmail.com](mailto:zalbinaridwan@gmail.com)
 - Linkedin: [M. Ridwan Zalbina](https://www.linkedin.com/in/mridwanzalbina/)
 - Instagram: [M. Ridwan Zalbina](https://www.instagram.com/ridwanzal/)
 - Telegram: [@ridwanzal](https://t.me/ridwanzal)
 
 #### Design Portfolio
-- Behance : https://www.behance.net/ridwanzal
-- Deviantart : https://www.deviantart.com/ridwanzal
+
+- Behance : <https://www.behance.net/ridwanzal>
+- Deviantart : <https://www.deviantart.com/ridwanzal>
 
 ------
 ![](https://komarev.com/ghpvc/?username=ridwanzal&color=blueviolet)
