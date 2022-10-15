@@ -6,22 +6,21 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 
 #### Technology Stack  & Experiences 
 
-- Javascript Technology  - Fundamentals & Current Trends
-- Git, Subversion and ~~Mercurial~~
-- Mastering CSS & Frontend Architecture for web development
-- Familiar with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang, PostCSS
-- Familiar with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
-- Familiar with Cutting-edge Javascript Framework & Library such as: Node, Vue, React, Svelte | Next, Nuxt and NestJS
+- Experienced with Javascript technology
+- Familiar with other programming language: Python, Go, Java/Kotlin and Go
+- Experience on Git and Subversion for version control system
+- Expert on CSS & Frontend Architecture for web development
+- Expert with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang, PostCSS
+- Experienced with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
+- Experienced with Cutting-edge Javascript Framework & Library such as: Node (Express, Fastify), Vue, React, Svelte
 - Familiar with frontend tooling like Vite for rapid web development
-- Build small project using MVC Framework like Codeigniter/Laravel (php), and Sails (NodeJS)
-- Python for data processing and API.
-- Java & Kotlin for native Android development.
-- Currently develop react-native app for mobile
+- Experienced on MVC Framework like Codeigniter/Laravel (php), and Sails (NodeJS) for rapid application development
 - Automate routine using task runner / module bundler / build tool / package management tool such as :
   - Webpack, Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel and Rollup
-- Familiar with UNIX/Linux Environment to deploy and maintain web & mobile application, also familiar with container such as docker
+- Expert on with UNIX/Linux Environment to deploy and maintain web & mobile application, also familiar with container such as docker
 - Focusing on clean code, conducting best practice as much as possible
-- Being a product designer as side hustle, helping company deal with product design, familiar with : Figma, Sketch, Zeplin, Invision for web and mobile app designs
+- Being a product designer as side hustle, helping company deal with product design, familiar with : 
+  - Figma, Sketch, Zeplin, Invision for web and mobile app designs
 - Experience more than 10 years on logo, advertisment, promotional content. 
 
 #### You can reach me
