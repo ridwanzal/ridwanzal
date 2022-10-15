@@ -8,7 +8,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 
 - Experienced with Javascript technology
 - Familiar with other programming language: Python, Go, Java/Kotlin and Go
-- Experience on Git and Subversion for version control system
+- Experienced on Git and Subversion for version control system
 - Expert on CSS & Frontend Architecture for web development
 - Expert with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang, PostCSS
 - Experienced with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
