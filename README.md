@@ -21,7 +21,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Focusing on clean code, conducting best practice as much as possible
 - Being a product designer as side hustle, helping company deal with product design, familiar with : 
   - Figma, Sketch, Zeplin, Invision for web and mobile app designs
-- Experience more than 10 years on logo, advertisment, promotional content. 
+- Experienced more than 10 years on logo, advertisment, promotional content. 
 
 #### You can reach me
 
