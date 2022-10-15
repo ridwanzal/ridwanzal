@@ -13,25 +13,16 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Familiar with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
 - Familiar with Cutting-edge Javascript Framework & Library such as: Node, Vue, React, Svelte | Next, Nuxt and NestJS
 - Familiar with frontend tooling like Vite for rapid web development
-- PHP Native & MVC Framework such as: CodeIgniter and Laravel.
+- Build small project using MVC Framework like Codeigniter/Laravel (php), and Sails (NodeJS)
 - Python for data processing and API.
 - Java & Kotlin for native Android development.
 - Currently develop react-native app for mobile
-- Generate static content web using task runner / module bundler / build tool / package management tool such as :
-  - Webpack, Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel
-- Familiar with UNIX/Linux Environment to deploy and maintain web & mobile application, also familiar with container such as: docker
+- Automate routine using task runner / module bundler / build tool / package management tool such as :
+  - Webpack, Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel and Rollup
+- Familiar with UNIX/Linux Environment to deploy and maintain web & mobile application, also familiar with container such as docker
 - Focusing on clean code, conducting best practice as much as possible
 - Being a product designer as side hustle, helping company deal with product design, familiar with : Figma, Sketch, Zeplin, Invision for web and mobile app designs
 - Experience more than 10 years on logo, advertisment, promotional content. 
-
-#### Interested in
-
-- Architecture & Construction (Real men need to get dirty). 
-- Communicate effectively in english
-- Project Management
-- Setup a new business & Invest
-- Start open source project
-- Web3
 
 #### You can reach me
 
