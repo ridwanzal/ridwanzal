@@ -10,7 +10,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Familiar with other programming languages: Python, Go, Java/Kotlin and Go
 - Experienced on Git and Subversion for version control system
 - Expert on CSS & Frontend Architecture for web development
-- Expert with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang, PostCSS
+- Experienced with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang, PostCSS
 - Experienced with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
 - Experienced with Cutting-edge Javascript Framework & Library such as: Node (Express, Fastify), Vue, React, Svelte
 - Familiar with frontend tooling like Vite for rapid web development
