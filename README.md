@@ -17,7 +17,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Experienced on MVC Framework like Codeigniter/Laravel (php), and Sails (NodeJS) for rapid application development
 - Automate routine using task runner / module bundler / build tool / package management tool such as :
   - Webpack, Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel and Rollup
-- Expert on UNIX/Linux Environment to deploy and maintain web & mobile application, also familiar with container such as docker
+- Expert on UNIX/Linux Environment to deploy and maintain web & mobile application, also familiar with container such as docker. Experienced on IaaS like OpenStack
 - Focusing on clean code, conducting best practice as much as possible
 - Being a product designer as side hustle, helping company deal with product design, familiar with :
   - Figma, Sketch, Zeplin, Invision for web and mobile app designs
