@@ -14,7 +14,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Experienced with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
 - Experienced with Cutting-edge Javascript Framework & Library such as: Node (Express, Fastify), Vue, React, Svelte
 - Familiar with frontend tooling like Vite for rapid web development
-- Experienced on MVC Framework like Codeigniter/Laravel (php), and Sails (NodeJS) for rapid application development
+- Experienced on MVC Framework like Laravel/Codeigniter/CakePHP (PHP), and Sails (NodeJS) for rapid application development
 - Automate routine using task runner / module bundler / build tool / package management tool such as :
   - Webpack, Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel and Rollup
 - Expert on UNIX/Linux Environment to deploy and maintain web & mobile application, also familiar with container such as docker. Experienced on IaaS like OpenStack
