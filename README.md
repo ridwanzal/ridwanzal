@@ -7,21 +7,22 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 #### Technology Stack  & Experiences
 
 - Experienced with Javascript technology
-- Familiar with other programming languages: Python, Go, Java/Kotlin
+- Familiar with other programming languages such as: Python, Go, Java/Kotlin
 - Experienced on Git and Subversion for version control system
 - Expert on CSS & Frontend Architecture for web development
 - Experienced with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang, PostCSS
 - Experienced with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
-- Experienced with Cutting-edge Javascript Framework & Library such as: Node (Express, Fastify), Vue, React, Svelte
-- Familiar with frontend tooling like Vite for rapid web development
+- Experienced with Cutting-edge Javascript Framework & Library such as: Node (Express, Fastify), Vue, React and Svelte
+- Familiar with some of frontend tooling like Vite, Webpack for rapid web development
 - Experienced on MVC Framework like Laravel/Codeigniter/CakePHP (PHP), and Sails (NodeJS) for rapid application development
 - Automate routine using task runner / module bundler / build tool / package management tool such as :
   - Webpack, Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel and Rollup
 - Expert on UNIX/Linux Environment to deploy and maintain web & mobile application, also familiar with container such as docker. Experienced on IaaS like OpenStack
+- Experienced on Database technology, e.g: Relational(MySQL, PostgreSQL, SQLite), Non-Relational(MongoDB, CouchDB, Apache Cassandra)
 - Focusing on clean code, conducting best practice as much as possible
 - Being a product designer as side hustle, helping company deal with product design, familiar with :
   - Figma, Sketch, Zeplin, Invision for web and mobile app designs
-- Experienced more than 10 years on logo, advertisment, promotional content.
+- Experienced more than 10 years on logo, advertisment, promotional content. You can see my portfolio on instagram : @ridwanzal
 
 #### You can reach me
 
