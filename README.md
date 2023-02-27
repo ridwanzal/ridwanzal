@@ -19,7 +19,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
   - Webpack, Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel and Rollup
 - Expert on UNIX/Linux Environment to deploy and maintain web & mobile application, familiar with container implementation with docker
 - Experienced on IaaS like OpenStack
-- Experienced on Database technology, e.g: Relational(MySQL, PostgreSQL, SQLite), Non-Relational(MongoDB, CouchDB, Apache Cassandra)
+- Experienced on database technology, e.g: Relational(MySQL, PostgreSQL, SQLite), Non-Relational(MongoDB, CouchDB, Apache Cassandra)
 - Focusing on clean code, conducting best practice as much as possible
 - Being a product designer as side hustle, helping company deal with product design, familiar with :
   - Figma, Sketch, Zeplin, Invision for web and mobile app designs
