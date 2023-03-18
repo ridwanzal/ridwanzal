@@ -7,7 +7,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 #### Technology Stack  & Experiences
 
 - Experienced with Javascript technology
-- Familiar with other programming languages such as: Python, Go, Java/Kotlin
+- Familiar with other programming languages such as: PHP, Python, Go, Java/Kotlin
 - Experienced on Git and Subversion for version control system
 - Expert on CSS & Frontend Architecture for web development
 - Experienced with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang, PostCSS
