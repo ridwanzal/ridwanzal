@@ -1,4 +1,5 @@
 Hello, my name is M. Ridwan Zalbina, people call me "Edo" or "Ridwan", Software Engineer who works around fullstack development, but works as professional Front-End Developer. Really passionate to learn everything about technology: software engineering, visual design and information security.
+Constantly posting on social media about logo design, user interface design (web & mobile) and programming [link instagram](https://www.instagram.com/ridwanzal/). Follow my github page to collaborate for project.
 
 #### Work
 
@@ -24,14 +25,16 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Being a product designer as side hustle, helping company deal with product design, familiar with :
   - Figma, Sketch, Zeplin, Invision for web and mobile app designs
 - Experienced more than 10 years on logo, advertisment, promotional content. You can see my portfolio on instagram : @ridwanzal
+- Open for new project
 
 #### You can reach me
 
-- Web : <https://ridwanzal.github.io/>
+- Personal page : <https://ridwanzal.github.io/>
 - Email :  [zalbinaridwan@gmail.com](mailto:zalbinaridwan@gmail.com)
 - Linkedin: [M. Ridwan Zalbina](https://www.linkedin.com/in/mridwanzalbina/)
 - Instagram: [M. Ridwan Zalbina](https://www.instagram.com/ridwanzal/)
 - Telegram: [@ridwanzal](https://t.me/ridwanzal)
+- My agency:  [zalvice.com](https://zalvice.com)
 
 #### Design Portfolio
 
