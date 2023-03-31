@@ -25,7 +25,6 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 - Being a product designer as side hustle, helping company deal with product design, familiar with :
   - Figma, Sketch, Zeplin, Invision for web and mobile app designs
 - Experienced more than 10 years on logo, advertisment, promotional content. You can see my portfolio on instagram : @ridwanzal
-- Open for new project
 
 #### You can reach me
 
