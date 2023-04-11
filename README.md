@@ -3,8 +3,7 @@ Constantly posting on social media about logo design, user interface design (web
 
 #### Work
 
-I'm currently working on Digital Agency Company called **Fairtech Technology, Ltd**, located in Singapore, Jakarta and Makassar. 
-And work as regular contributor at NicheStack (as Product Designer & Front End Developer)
+I'm currently working on Digital Agency Company called **Fairtech Technology, Ltd**, located in Singapore, Jakarta and Makassar, and then working as regular contributor at NicheStack (as Product Designer & Front End Developer)
 
 #### Technology Stack  & Experiences
 
