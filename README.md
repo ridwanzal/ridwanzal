@@ -3,7 +3,7 @@ Constantly posting on social media about logo design, user interface design (web
 
 #### Work
 
-I'm currently working on Digital Agency Company called **Fairtech Technology, Ltd**, and working as regular contributor at NicheStack (as Product Designer & Front End Developer)
+I'm currently working on Digital Agency Company called **Fairtech Technology, Ltd**, and working as regular contributor at NicheStack (as Product Designer & Front End Developer), and create stunning product with SDS Tech
 
 #### Technology Stack  & Experiences
 
