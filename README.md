@@ -3,23 +3,16 @@ Constantly posting on social media about logo design, user interface design (web
 
 #### Work
 
-I'm currently working on Digital Agency Company called **Fairtech Technology, Ltd**, and former contributor at NicheStack (as Product Designer & Front End Developer), and Technical Advisor on ISCTech company.
+I'm currently working on Digital Agency Company called **Fairtech Technology, Ltd**, former contributor at NicheStack (as Product Designer & Front End Developer), and Technical Advisor on ISCTech company.
 
 #### Technology Stack  & Experiences
 
-- Experienced with Javascript technology
-- Familiar with other programming languages such as: PHP, Python, Go, Java/Kotlin
-- Experienced on Git and Subversion for version control system
+- Experinced with several programming languages: Javascript, PHP, Python, Go, Java/Kotlin
+- Experienced on Project Management as Technical Lead & Technical Advisor in different Company
 - Expert on CSS & Frontend Architecture for web development
-- Experienced with almost CSS Preprocessors SCSS/SASS, LESS, Compass, CSS-Crush, Stylus-lang, PostCSS
-- Experienced with templating engine : twig, handlebars, mustache, pug, ejs, dOT, and Jade
-- Experienced with Cutting-edge Javascript Framework & Library such as: Node (Express, Fastify), Vue, React and Svelte
-- Familiar with some of frontend tooling like Vite, Webpack for rapid web development
-- Experienced on MVC Framework like Laravel/Codeigniter/CakePHP (PHP), and Sails (NodeJS) for rapid application development
-- Automate routine using task runner / module bundler / build tool / package management tool such as :
-  - Webpack, Grunt, Gulp, npm, Browserify, Babel, Requirejs, Parcel and Rollup
+- Experienced as Professional Front-End, Back-End & Mobile Development.
 - Expert on UNIX/Linux Environment to deploy and maintain web & mobile application, familiar with container implementation with docker
-- Experienced on database technology, e.g: Relational(MySQL, PostgreSQL, SQLite), Non-Relational(MongoDB, CouchDB, Apache Cassandra)
+- Experienced on managing database technology, e.g: Relational(MySQL, PostgreSQL, SQLite), Non-Relational(MongoDB, CouchDB, Apache Cassandra)
 - Focusing on clean code, conducting best practice as much as possible
 
 #### You can reach me
