@@ -7,7 +7,7 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 
 #### Technology Stack  & Experiences
 
-- Experinced with several programming languages: Javascript, PHP, Python, Go, Java/Kotlin
+- Experienced with several programming languages: Javascript, PHP, Python, Go, Java/Kotlin
 - Experienced on Project Management as Technical Lead & Technical Advisor in different Company
 - Expert on CSS & Frontend Architecture for web development
 - Experienced as Professional Front-End, Back-End & Mobile Development.
