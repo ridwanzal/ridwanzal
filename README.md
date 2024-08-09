@@ -7,13 +7,13 @@ I'm currently working on Digital Agency Company called **Fairtech Technology, Lt
 
 #### Technology Stack  & Experiences
 
-- Experienced with several programming languages: Javascript, PHP, Python, Go, Java/Kotlin
-- Experienced on Project Management as Technical Lead & Technical Advisor in different Company
-- Expert on CSS & Frontend Architecture for web development
-- Experienced as Professional Front-End, Back-End & Mobile Development.
-- Expert on UNIX/Linux Environment to deploy and maintain web & mobile application
-- Experienced on managing database technology, e.g: Relational(MySQL, PostgreSQL, SQLite), Non-Relational(MongoDB, CouchDB, Apache Cassandra)
-- Focusing on clean code, conducting best practice as much as possible
+- Proficient in multiple programming languages, including JavaScript, PHP, Python, Go, and Java/Kotlin.
+- Experienced in Project Management, serving as a Technical Lead and Technical Advisor in various companies.
+- Expertise in CSS and Frontend Architecture for web development.
+- Skilled in Professional Front-End, Back-End, and Mobile Development.
+- Proficient in UNIX/Linux environments for deploying and maintaining web and mobile applications.
+- Experienced in managing database technologies, including Relational (MySQL, PostgreSQL, SQLite) and Non-Relational (MongoDB, CouchDB, Apache Cassandra) databases.
+- Focused on writing clean code and following best practices consistently.
 
 #### You can reach me
 
