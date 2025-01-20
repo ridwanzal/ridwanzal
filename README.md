@@ -1,5 +1,4 @@
-Hello, my name is M. Ridwan Zalbina, people call me "Edo" or "Ridwan", Software Engineer who works around fullstack development, but works as professional Front-End Developer. Really passionate to learn everything about technology: software engineering, visual design and information security.
-Constantly posting on social media about logo design, user interface design (web & mobile) and programming [(link to instagram page)](https://www.instagram.com/ridwanzal/). Follow my github page to collaborate for project.
+Hi there! I'm M. Ridwan Zalbina, but you can call me "Edo" or "Ridwan." I'm a Software Engineer specializing in full-stack development, with a professional focus on Front-End Development. I'm deeply passionate about all things tech—whether it's software engineering, visual design, or information security. I love sharing my journey and insights on social media, from logo design to web & mobile UI design and programming tips (check out my Instagram). Let’s connect and collaborate—follow me on GitHub for exciting projects!
 
 #### Work
 
