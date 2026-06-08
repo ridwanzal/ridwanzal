@@ -1,9 +1,5 @@
 Hi there! I'm M. Ridwan Zalbina, but you can call me "Edo" or "Ridwan." I'm a Software Engineer specializing in full-stack development, with a professional focus on Front-End Development. I'm deeply passionate about all things tech—whether it's software engineering, visual design, or information security. I love sharing my journey and insights on social media, from logo design to web & mobile UI design and programming tips (check out my Instagram). Let’s connect and collaborate—follow me on GitHub for exciting projects!
 
-#### Work
-
-I'm currently working on Digital Agency Company called **Fairtech Technology, Ltd**, former contributor at NicheStack (as Product Designer & Front End Developer), and Technical Advisor on ISCTech company.
-
 #### Technology Stack  & Experiences
 
 - Proficient in multiple programming languages, including JavaScript, PHP, Python, Go, and Java/Kotlin.
