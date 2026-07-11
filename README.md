@@ -1,35 +1,38 @@
-Hi there! I'm M. Ridwan Zalbina, but you can call me "Edo" or "Ridwan." I'm a Software Engineer specializing in full-stack development, with a professional focus on Front-End Development. I'm deeply passionate about all things tech—whether it's software engineering, visual design, or information security. I love sharing my journey and insights on social media, from logo design to web & mobile UI design and programming tips (check out my Instagram). Let’s connect and collaborate—follow me on GitHub for exciting projects!
+Hi there! I'm M. Ridwan Zalbina—feel free to call me Edo or Ridwan. I’m a Software Engineer with a strong foundation in full-stack development and a professional focus on Front-End Engineering. Currently, I serve as the Chief Technology Officer (CTO) at Payung Madinah, where I lead technology strategy, product development, and engineering execution.
 
-#### Work
+I’m passionate about building scalable digital products and crafting intuitive user experiences. My interests span across software engineering, visual design, and information security. I also enjoy sharing insights and experiences through social media—covering topics such as UI/UX design, branding, and programming.
 
-I'm currently working on Digital Agency Company called **Fairtech Technology, Ltd**, former contributor at NicheStack (as Product Designer & Front End Developer), and Technical Advisor on ISCTech company.
+### Work
 
-#### Technology Stack  & Experiences
+* **Chief Technology Officer (CTO)** — Payung Madinah
+* **Front-End Developer** — Fairtech Technology Pte. Ltd.
+* Former **Product Designer & Front-End Developer** — NicheStack
+* **Technical Advisor** — ISCTech, KAI Indonesia, HIPMI SUMSEL 2025-2028, etc.
 
-- Proficient in multiple programming languages, including JavaScript, PHP, Python, Go, and Java/Kotlin.
-- Experienced in Project Management, serving as a Technical Lead and Technical Advisor in various companies.
-- Expertise in CSS and Frontend Architecture for web development.
-- Skilled in Professional Front-End, Back-End, and Mobile Development.
-- Proficient in UNIX/Linux environments for deploying and maintaining web and mobile applications.
-- Experienced in managing database technologies, including Relational (MySQL, PostgreSQL, SQLite) and Non-Relational (MongoDB, CouchDB, Apache Cassandra) databases.
-- Focused on writing clean code and following best practices consistently.
+### Technology Stack & Experience
 
-#### You can reach me
+* Proficient in multiple programming languages including JavaScript, PHP, Python, Go, and Java/Kotlin
+* Strong expertise in Front-End Architecture, modern CSS, and scalable UI systems
+* Experienced in full-cycle development: Front-End, Back-End, and Mobile Applications
+* Solid background in system design, project leadership, and technical decision-making
+* Skilled in UNIX/Linux environments for deployment and infrastructure management
+* Experienced with relational (MySQL, PostgreSQL, SQLite) and non-relational (MongoDB, CouchDB, Apache Cassandra) databases
+* Committed to writing clean, maintainable code and following best engineering practices
 
-- Personal page : [ridwanzal.github.io](https://ridwanzal.github.io)
-- Email :  [zalbinaridwan@gmail.com](mailto:zalbinaridwan@gmail.com) |  [ridwanzal@fairtech.com.sg](mailto:ridwanzal@fairtech.com.sg)
-- Linkedin: [M. Ridwan Zalbina](https://www.linkedin.com/in/mridwanzalbina/)
-- Instagram: [M. Ridwan Zalbina](https://www.instagram.com/ridwanzal/)
-- Telegram: [@ridwanzal](https://t.me/ridwanzal)
-- My agency:  [zalvice.com](https://zalvice.com)
+### Let’s Connect
 
-#### Design Portfolio
+* Personal Website: https://ridwanzal.github.io
+* Email: [zalbinaridwan@gmail.com](mailto:zalbinaridwan@gmail.com) | [ridwanzal@fairtech.com.sg](mailto:ridwanzal@fairtech.com.sg)
+* LinkedIn: https://www.linkedin.com/in/mridwanzalbina/
+* Instagram: https://www.instagram.com/ridwanzal/
+* Telegram: https://t.me/ridwanzal
+* Agency: https://zalvice.com
 
-- Behance : <https://www.behance.net/ridwanzal>
-- Deviantart : <https://www.deviantart.com/ridwanzal>
+### Design Portfolio
 
-------
-![](https://komarev.com/ghpvc/?username=ridwanzal&color=blueviolet)
-------
+* Behance: https://www.behance.net/ridwanzal
+* DeviantArt: https://www.deviantart.com/ridwanzal
 
-&copy; 2022 - 2023 (Github profile readme - M. Ridwan Zalbina)
+---
+
+© M. Ridwan Zalbina
