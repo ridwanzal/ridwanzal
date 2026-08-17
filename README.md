@@ -5,9 +5,9 @@ I’m passionate about building scalable digital products and crafting intuitive
 ### Work
 
 * **Chief Technology Officer (CTO)** — Payung Madinah
-* **Front-End Developer** — Fairtech Technology Pte. Ltd.
+* Former **Front-End Developer** — Fairtech Technology Pte. Ltd.
 * Former **Product Designer & Front-End Developer** — NicheStack
-* **Technical Advisor** — ISCTech, KAI Indonesia, HIPMI SUMSEL 2025-2028, etc.
+* **Technical Advisor** — ISCTech, KAI Indonesia, HIPMI SUMSEL 2025-2028, DLH Lab Kabupaten Lahat etc.
 
 ### Technology Stack & Experience
 
