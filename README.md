@@ -21,12 +21,12 @@ I’m passionate about building scalable digital products and crafting intuitive
 
 ### Let’s Connect
 
-* Personal Website: https://ridwanzal.github.io
+* Company : https://payungmadina.id
 * Email: [zalbinaridwan@gmail.com](mailto:zalbinaridwan@gmail.com) | [ridwanzal@fairtech.com.sg](mailto:ridwanzal@fairtech.com.sg)
 * LinkedIn: https://www.linkedin.com/in/mridwanzalbina/
 * Instagram: https://www.instagram.com/ridwanzal/
 * Telegram: https://t.me/ridwanzal
-* Agency: https://zalvice.com
+* My Agency: https://zalvice.com
 
 ### Design Portfolio
 
