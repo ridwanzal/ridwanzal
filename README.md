@@ -27,6 +27,7 @@ I’m passionate about building scalable digital products and crafting intuitive
 * Instagram: https://www.instagram.com/ridwanzal/
 * Telegram: https://t.me/ridwanzal
 * My Agency: https://zalvice.com
+* Online SHop : https://laptopbisnis.com
 
 ### Design Portfolio
 
