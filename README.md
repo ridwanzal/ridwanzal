@@ -21,7 +21,7 @@ I’m passionate about building scalable digital products and crafting intuitive
 
 ### Let’s Connect
 
-* Company : https://payungmadina.id
+* Company : https://payungmadinah.id
 * Email: [zalbinaridwan@gmail.com](mailto:zalbinaridwan@gmail.com) | [ridwanzal@fairtech.com.sg](mailto:ridwanzal@fairtech.com.sg)
 * LinkedIn: https://www.linkedin.com/in/mridwanzalbina/
 * Instagram: https://www.instagram.com/ridwanzal/
