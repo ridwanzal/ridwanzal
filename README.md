@@ -9,15 +9,38 @@ I’m passionate about building scalable digital products and crafting intuitive
 * Former **Product Designer & Front-End Developer** — NicheStack
 * **Technical Advisor** — ISCTech, KAI Indonesia, HIPMI SUMSEL 2025-2028, DLH Lab Kabupaten Lahat etc.
 
-### Technology Stack & Experience
+## Technology Stack & Experience
 
-* Proficient in multiple programming languages including JavaScript, PHP, Python, Go, and Java/Kotlin
-* Strong expertise in Front-End Architecture, modern CSS, and scalable UI systems
-* Experienced in full-cycle development: Front-End, Back-End, and Mobile Applications
-* Solid background in system design, project leadership, and technical decision-making
-* Skilled in UNIX/Linux environments for deployment and infrastructure management
-* Experienced with relational (MySQL, PostgreSQL, SQLite) and non-relational (MongoDB, CouchDB, Apache Cassandra) databases
-* Committed to writing clean, maintainable code and following best engineering practices
+**Languages & Runtime**  
+JavaScript/TypeScript · Python · PHP · Go · Kotlin — pemilihan stack berdasarkan constraint sistem, bukan preferensi.
+
+**Full-Cycle Delivery**
+- Front-end architecture, modern CSS, dan design system yang skalabel
+- Backend service (REST/gRPC), job queue, dan integrasi pihak ketiga
+- Aplikasi mobile
+- Deployment & operasional di Linux: nginx, reverse proxy, process manager, CI/CD
+
+**Machine Learning (Production-Oriented)**
+- Pipeline end-to-end: ingest → feature engineering → training → evaluasi → inference
+- Deteksi anomali sinyal RF dengan pendekatan *unsupervised* (Autoencoder, Isolation Forest)
+- Monitoring drift dan retraining terjadwal
+
+**LLM Engineering**
+- Integrasi API, RAG di atas data internal, function/tool calling
+- Alur *agentic* dengan guardrail dan fallback deterministik
+- Eval set + regression test untuk output non-deterministik
+- Tracing, kontrol biaya token, dan optimasi latensi
+
+**AI-Assisted Development**
+- Claude Code / Copilot-class tooling sebagai workflow harian
+- Pola kerja: spec → generate → review ketat dengan test
+- Output AI diperlakukan sebagai draft yang harus dibuktikan, bukan hasil akhir
+
+**Data Layer**  
+MySQL · PostgreSQL · SQLite · MongoDB · vector store untuk retrieval — paham trade-off konsistensi, indexing, dan biaya query.
+
+**Technical Leadership**  
+Memimpin keputusan arsitektur, memecah scope, dan menjaga codebase tetap bisa dirawat tim kecil.
 
 ### Let’s Connect
 
