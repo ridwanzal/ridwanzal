@@ -5,13 +5,13 @@ I’m passionate about building scalable digital products and crafting intuitive
 ### Work
 
 * **Chief Technology Officer (CTO)** — PT Payung Madinah Tour
-* **Information Technology Consultant** Universitas Sriwijaya
+* **Information Technology Consultant** — Universitas Sriwijaya
 * **Technical Advisor** — ISCTech Indonesia
-* **Information Technology Consultant HIPMI SUMSEL 2025-2028** Universitas Sriwijaya
+* **Information Technology Consultant** — HIPMI SUMSEL 2025-2028
 * Former **Front-End Developer** — Fairtech Technology Pte. Ltd.
 * Former **Product Designer & Front-End Developer** — NicheStack
-* Former **Senior Technical Consultant** PT KAI Indonesia Persero (KAI Indonesia, KAI Balai Yasa Lahat)
-* Former **Information Technology Consultant** Dinas Lingkungan Hidup (Lahat, Pagaralam)
+* Former **Senior Technical Consultant** — PT KAI Indonesia Persero (KAI Indonesia, KAI Balai Yasa Lahat)
+* Former **Information Technology Consultant** — Dinas Lingkungan Hidup (Lahat, Pagaralam)
 
 ## Technology Stack & Experience
 
